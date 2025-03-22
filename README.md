@@ -21,8 +21,8 @@
 ---
 
 ## 💬 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishan-singh-1b411a248/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ishansingh2390@gmail.com)  
 
 <!---
 ishan-305/ishan-305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
